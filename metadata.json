@@ -1,0 +1,5 @@
+{
+  "name": "Nexus OS MVP Simulator",
+  "description": "A web-based simulation of the Nexus OS MVP, showcasing its adaptive architecture, Nexus Core Scanner (NCS), and the foundational AI Agent Operating System (AIOS) layer based on user-selected hardware profiles.",
+  "requestFramePermissions": []
+}
